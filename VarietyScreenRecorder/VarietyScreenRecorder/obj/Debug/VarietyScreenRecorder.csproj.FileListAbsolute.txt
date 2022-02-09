@@ -1,0 +1,10 @@
+C:\Users\Valeriy\Desktop\VarietyScreenRecorder\VarietyScreenRecorder\bin\Debug\VarietyScreenRecorder.exe.config
+C:\Users\Valeriy\Desktop\VarietyScreenRecorder\VarietyScreenRecorder\bin\Debug\VarietyScreenRecorder.exe
+C:\Users\Valeriy\Desktop\VarietyScreenRecorder\VarietyScreenRecorder\bin\Debug\VarietyScreenRecorder.pdb
+C:\Users\Valeriy\Desktop\VarietyScreenRecorder\VarietyScreenRecorder\obj\Debug\VarietyScreenRecorder.csprojAssemblyReference.cache
+C:\Users\Valeriy\Desktop\VarietyScreenRecorder\VarietyScreenRecorder\obj\Debug\VarietyScreenRecorder.Properties.Resources.resources
+C:\Users\Valeriy\Desktop\VarietyScreenRecorder\VarietyScreenRecorder\obj\Debug\VarietyScreenRecorder.WindowVSR_Main.resources
+C:\Users\Valeriy\Desktop\VarietyScreenRecorder\VarietyScreenRecorder\obj\Debug\VarietyScreenRecorder.csproj.GenerateResource.cache
+C:\Users\Valeriy\Desktop\VarietyScreenRecorder\VarietyScreenRecorder\obj\Debug\VarietyScreenRecorder.exe
+C:\Users\Valeriy\Desktop\VarietyScreenRecorder\VarietyScreenRecorder\obj\Debug\VarietyScreenRecorder.pdb
+C:\Users\Valeriy\Desktop\VarietyScreenRecorder\VarietyScreenRecorder\obj\Debug\VarietyScreenRecorder.WindowVSR.WindowVSR_ScreenshotCrop.resources

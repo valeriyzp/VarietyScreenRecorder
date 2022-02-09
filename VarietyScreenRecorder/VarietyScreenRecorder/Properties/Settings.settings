@@ -1,0 +1,54 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="VarietyScreenRecorder.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Version" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="FullSizeScreenshot_Path" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="FullSizeScreenshot_Extension" Type="System.String" Scope="User">
+      <Value Profile="(Default)">png</Value>
+    </Setting>
+    <Setting Name="SizedScreenshot_Path" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="SizedScreenshot_Extension" Type="System.String" Scope="User">
+      <Value Profile="(Default)">png</Value>
+    </Setting>
+    <Setting Name="SizedScreenshot_IsEdit" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="TimeLapseScreenshot_Path" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="TimeLapseScreenshot_Extension" Type="System.String" Scope="User">
+      <Value Profile="(Default)">png</Value>
+    </Setting>
+    <Setting Name="TimeLapseScreenshot_Interval" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">5</Value>
+    </Setting>
+    <Setting Name="VideoRecord_Path" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="VSRHotKey_PhotoCam" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Ctrl+P</Value>
+    </Setting>
+    <Setting Name="VSRHotKey_PhotoCamSized" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Ctrl+C</Value>
+    </Setting>
+    <Setting Name="VSRHotKey_TimeLapse" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Ctrl+T</Value>
+    </Setting>
+    <Setting Name="VSRHotKey_VideoCam" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Ctrl+V</Value>
+    </Setting>
+    <Setting Name="VSRHotKey_Setting" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Ctrl+S</Value>
+    </Setting>
+    <Setting Name="VSRHotKey_Info" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Ctrl+I</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

@@ -1,0 +1,37 @@
+C:\Users\Valeriy\Desktop\VarietyScreenRecorder\VarietyScreenRecorder\bin\x86\Debug\VarietyScreenRecorder.exe.config
+C:\Users\Valeriy\Desktop\VarietyScreenRecorder\VarietyScreenRecorder\bin\x86\Debug\VarietyScreenRecorder.exe
+C:\Users\Valeriy\Desktop\VarietyScreenRecorder\VarietyScreenRecorder\bin\x86\Debug\VarietyScreenRecorder.pdb
+C:\Users\Valeriy\Desktop\VarietyScreenRecorder\VarietyScreenRecorder\bin\x86\Debug\ScreenRecorderLib.dll
+C:\Users\Valeriy\Desktop\VarietyScreenRecorder\VarietyScreenRecorder\bin\x86\Debug\ScreenRecorderLib.xml
+C:\Users\Valeriy\Desktop\VarietyScreenRecorder\VarietyScreenRecorder\obj\x86\Debug\VarietyScreenRecorder.csprojAssemblyReference.cache
+C:\Users\Valeriy\Desktop\VarietyScreenRecorder\VarietyScreenRecorder\obj\x86\Debug\VarietyScreenRecorder.Properties.Resources.resources
+C:\Users\Valeriy\Desktop\VarietyScreenRecorder\VarietyScreenRecorder\obj\x86\Debug\VarietyScreenRecorder.WindowVSR_Main.resources
+C:\Users\Valeriy\Desktop\VarietyScreenRecorder\VarietyScreenRecorder\obj\x86\Debug\VarietyScreenRecorder.WindowVSR.WindowVSR_ScreenshotCrop.resources
+C:\Users\Valeriy\Desktop\VarietyScreenRecorder\VarietyScreenRecorder\obj\x86\Debug\VarietyScreenRecorder.csproj.GenerateResource.cache
+C:\Users\Valeriy\Desktop\VarietyScreenRecorder\VarietyScreenRecorder\obj\x86\Debug\VarietyScreenRecorder.csproj.CopyComplete
+C:\Users\Valeriy\Desktop\VarietyScreenRecorder\VarietyScreenRecorder\obj\x86\Debug\VarietyScreenRecorder.exe
+C:\Users\Valeriy\Desktop\VarietyScreenRecorder\VarietyScreenRecorder\obj\x86\Debug\VarietyScreenRecorder.pdb
+C:\Users\Valeriy\Desktop\VarietyScreenRecorder\VarietyScreenRecorder\obj\x86\Debug\VarietyScreenRecorder.WindowVSR.WindowVSR_Information.resources
+C:\Users\Valeriy\Desktop\VarietyScreenRecorder\VarietyScreenRecorder\obj\x86\Debug\VarietyScreenRecorder.WindowVSR.WindowVSR_Settings.resources
+C:\Users\Valeriy\Desktop\VarietyScreenRecorder\VarietyScreenRecorder\obj\x86\Debug\VarietyScreenRecorder.Window_GE.WindowGE_Main.resources
+C:\Users\Valeriy\Desktop\VarietyScreenRecorder\VarietyScreenRecorder\obj\x86\Debug\VarietyScreenRecorder.Window_GE.WindowGE_GetSize.resources
+C:\Users\Valeriy\Desktop\VarietyScreenRecorder\VarietyScreenRecorder\obj\x86\Debug\VarietyScreenRecorder.Window_GE.WindowGE_GetText.resources
+C:\Users\Valerii Kozlov\Desktop\VarietyScreenRecorder\VarietyScreenRecorder\VarietyScreenRecorder\bin\x86\Debug\VarietyScreenRecorder.exe.config
+C:\Users\Valerii Kozlov\Desktop\VarietyScreenRecorder\VarietyScreenRecorder\VarietyScreenRecorder\bin\x86\Debug\VarietyScreenRecorder.exe
+C:\Users\Valerii Kozlov\Desktop\VarietyScreenRecorder\VarietyScreenRecorder\VarietyScreenRecorder\bin\x86\Debug\VarietyScreenRecorder.pdb
+C:\Users\Valerii Kozlov\Desktop\VarietyScreenRecorder\VarietyScreenRecorder\VarietyScreenRecorder\bin\x86\Debug\ScreenRecorderLib.dll
+C:\Users\Valerii Kozlov\Desktop\VarietyScreenRecorder\VarietyScreenRecorder\VarietyScreenRecorder\bin\x86\Debug\ScreenRecorderLib.xml
+C:\Users\Valerii Kozlov\Desktop\VarietyScreenRecorder\VarietyScreenRecorder\VarietyScreenRecorder\obj\x86\Debug\VarietyScreenRecorder.csproj.AssemblyReference.cache
+C:\Users\Valerii Kozlov\Desktop\VarietyScreenRecorder\VarietyScreenRecorder\VarietyScreenRecorder\obj\x86\Debug\VarietyScreenRecorder.Properties.Resources.resources
+C:\Users\Valerii Kozlov\Desktop\VarietyScreenRecorder\VarietyScreenRecorder\VarietyScreenRecorder\obj\x86\Debug\VarietyScreenRecorder.WindowVSR.WindowVSR_Information.resources
+C:\Users\Valerii Kozlov\Desktop\VarietyScreenRecorder\VarietyScreenRecorder\VarietyScreenRecorder\obj\x86\Debug\VarietyScreenRecorder.WindowVSR_Main.resources
+C:\Users\Valerii Kozlov\Desktop\VarietyScreenRecorder\VarietyScreenRecorder\VarietyScreenRecorder\obj\x86\Debug\VarietyScreenRecorder.WindowVSR.WindowVSR_ScreenshotCrop.resources
+C:\Users\Valerii Kozlov\Desktop\VarietyScreenRecorder\VarietyScreenRecorder\VarietyScreenRecorder\obj\x86\Debug\VarietyScreenRecorder.WindowVSR.WindowVSR_Settings.resources
+C:\Users\Valerii Kozlov\Desktop\VarietyScreenRecorder\VarietyScreenRecorder\VarietyScreenRecorder\obj\x86\Debug\VarietyScreenRecorder.Window_GE.WindowGE_GetSize.resources
+C:\Users\Valerii Kozlov\Desktop\VarietyScreenRecorder\VarietyScreenRecorder\VarietyScreenRecorder\obj\x86\Debug\VarietyScreenRecorder.Window_GE.WindowGE_GetText.resources
+C:\Users\Valerii Kozlov\Desktop\VarietyScreenRecorder\VarietyScreenRecorder\VarietyScreenRecorder\obj\x86\Debug\VarietyScreenRecorder.Window_GE.WindowGE_Main.resources
+C:\Users\Valerii Kozlov\Desktop\VarietyScreenRecorder\VarietyScreenRecorder\VarietyScreenRecorder\obj\x86\Debug\VarietyScreenRecorder.csproj.GenerateResource.cache
+C:\Users\Valerii Kozlov\Desktop\VarietyScreenRecorder\VarietyScreenRecorder\VarietyScreenRecorder\obj\x86\Debug\VarietyScreenRecorder.csproj.CoreCompileInputs.cache
+C:\Users\Valerii Kozlov\Desktop\VarietyScreenRecorder\VarietyScreenRecorder\VarietyScreenRecorder\obj\x86\Debug\VarietyScreenRecorder.csproj.CopyComplete
+C:\Users\Valerii Kozlov\Desktop\VarietyScreenRecorder\VarietyScreenRecorder\VarietyScreenRecorder\obj\x86\Debug\VarietyScreenRecorder.exe
+C:\Users\Valerii Kozlov\Desktop\VarietyScreenRecorder\VarietyScreenRecorder\VarietyScreenRecorder\obj\x86\Debug\VarietyScreenRecorder.pdb
